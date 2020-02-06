@@ -1,1 +1,0 @@
-SELECT * FROM usairlineflights2.carriers;
